@@ -26,9 +26,12 @@ I’m passionate about **Data Science and Data Analytics** and also interested i
 ---
 
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohan-dey-69097226a/)  
-- 📧 Email: deyrohan02@gmail.com
+- 🌐 Live Portfolio: [https://rohan-dey-portfolio.vercel.app](https://rohan-dey-portfolio.vercel.app)  
+- 📧 Email: [deyrohan02@gmail.com](mailto:deyrohan02@gmail.com)
+
 
 
 ---
